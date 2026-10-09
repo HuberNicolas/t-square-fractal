@@ -13,7 +13,7 @@
 </div>
 
 > [!NOTE]
-> Coursework for Informatik II at the University of Zurich, written in December 2020. It is kept as submitted and
+> Coursework for Informatik II at the University of Zurich, spring semester 2020. It is kept as submitted and
 > is not developed further. Despite the repository name, the program draws a
 > [T-square fractal](https://en.wikipedia.org/wiki/T-square_(fractal)), not a Hilbert curve.
 
@@ -57,7 +57,8 @@ This creates `src.exe`. The SDL2 setup followed these videos:
 
 ## Course
 
-Informatik II, University of Zurich, 2020. The original submission is tagged
+Informatik II, Prof. Dr. Michael Böhlen, University of Zurich, spring semester 2020 (second semester of the
+BSc). The code was uploaded to GitHub in December 2020; this state is tagged
 [`v1.0.0`](https://github.com/HuberNicolas/hilbert-curve/releases/tag/v1.0.0); it includes the compiled `src.exe`.
 
 ## License
