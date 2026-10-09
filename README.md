@@ -11,7 +11,7 @@
 </div>
 
 > [!NOTE]
-> Assignment for Informatik II (Prof. Michael Böhlen), University of Zurich, spring 2020. Kept as submitted.
+> Personal project from 2020, not developed further.
 
 [`main.c`](main.c) recursively draws squares, each with four half-size squares on its corners, 9 levels deep.
 Click into the window to close it.
@@ -29,6 +29,8 @@ make unix
 ```
 
 On Windows, the original `build` target uses MinGW with SDL2 in `E:\LibSDL` (see [`makefile`](makefile)).
+The SDL2 setup followed these videos: [1](https://www.youtube.com/watch?v=ybYMOKEW9IY&t=908),
+[2](https://www.youtube.com/watch?v=7sIBklOTImI).
 
 ## License
 
